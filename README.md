@@ -8,7 +8,7 @@ This assignment will have you first create a WPILib Project and then have write 
 - Hit `ctrl + p` to open up the command palette
 - Type `Create a new project` and hit enter
 
-<img src="images\newproject.png" alt="drawing" width="700"/>
+<img src="images\newproject.png" alt="drawing" width="1000"/>
 
 - Fill out the Project Creator so it looks something like above.
 	- Chose which ever folder you want your project to be made in
