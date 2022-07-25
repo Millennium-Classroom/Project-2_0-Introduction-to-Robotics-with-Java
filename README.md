@@ -10,6 +10,8 @@ This assignment will have you first create a WPILib Project and then have write 
 
 <img src="images\newproject.png" alt="drawing" width="1000"/>
 
+***right click on image and click open image in new tab to view a bigger version of what to fill in***
+
 - Fill out the Project Creator so it looks something like above.
 	- Chose which ever folder you want your project to be made in
 	- The project name should indicate what year it is, the project should also be in pascal case. (e.g. `2022-SomeNamePascalCase`)
