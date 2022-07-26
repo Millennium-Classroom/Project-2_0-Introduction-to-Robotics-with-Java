@@ -5,7 +5,7 @@ This assignment will have you first create a WPILib Project and then have write 
 
 ## ***Project Creation***
 
-- Hit `ctrl + p` to open up the command palette
+- Hit `ctrl + p` (`cmd + shift + p` on mac) to open up the command palette
 - Type `Create a new project` and hit enter
 
 <img src="images\newproject.png" alt="drawing" width="1000"/>
@@ -86,7 +86,7 @@ def ROBOT_MAIN_CLASS = 'team3647.frc2022.robot.Main'
 This is because the path to your `Main.java` file has changed after you adjust your file structure according to the instructions above. 
 
 ### ***Build Code***
-- Hit `ctrl + p` to open up the command palette
+- Hit `ctrl + p` (`cmd + shift + p` on mac) to open up the command palette
 - Type `build` and press enter for `WPILib: Build Robot Code`
 - If all has been done correctly, the terminal should say `BUILD SUCCESSFUL` in about 30 seconds
 
