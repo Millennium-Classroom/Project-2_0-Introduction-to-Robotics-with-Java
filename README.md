@@ -1,7 +1,10 @@
 # Project 2_0: Introduction to Robotics with Java
 This assignment will have you first create a WPILib Project and then have write your first WPILib program in Java to control a motor.  
 
-***Pre-req:*** Must have set up your environment in [Project 0_1](https://classroom.github.com/a/d-9tQmrq)
+***Pre-req:***
+
+- Must have set up your environment in [Project 0_1](https://classroom.github.com/a/d-9tQmrq)
+- Must have motor ID's in [Project 1_0](https://classroom.github.com/a/uBMaL_y6)
 
 ## ***Project Creation***
 
@@ -93,8 +96,9 @@ This is because the path to your `Main.java` file has changed after you adjust y
 ## ***Robot Code Requirements***
 ***Project Name: `2022-Project2_0`***
 
-- Create a FalconFX object with the ID corresponding to a motor on the drivetrain of the 2022 robot in Robot.java
-- Create a TalonSRX object with the ID corresponding to a motor on the drivetrain of the 2018 or 2019 robot in Robot.java
+- Double check, triple check that the motor you are running is the correct motor for the correct ID. Do not run code without double checking, otherwise you maybe spinning the arm or the turret at very dangerous speeds. 
+- Create a FalconFX object with the ID corresponding to a motor on the intake of the 2022 robot in Robot.java
+- Create a TalonSRX object with the ID corresponding to a motor on the intake of the 2018 or 2019 robot in Robot.java
 - Spin motor at a constant 0.3 percent output and then try spinning the motor at the same speed in the opposite direction. 
 	- Hint: write this in teleopPeriodic()
 
