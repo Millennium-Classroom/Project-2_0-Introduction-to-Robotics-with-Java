@@ -102,6 +102,9 @@ This is because the path to your `Main.java` file has changed after you adjust y
 - Spin motor at a constant 0.3 percent output and then try spinning the motor at the same speed in the opposite direction. 
 	- Hint: write this in teleopPeriodic()
 
+## ***Authors***
+- [Team 3647, Edward Sun](https://github.com/EdwardoSunny)
+
 
 
 
